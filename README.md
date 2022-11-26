@@ -1,5 +1,7 @@
 (<a href="https://ibb.co/Bq9qpnx"><img src="https://i.ibb.co/D5Z5Jry/01-BI-WEB3-STACKPOLE-HERO.jpg" alt="01-BI-WEB3-STACKPOLE-HERO" border="0"></a>)  
 
+My name is Ivan and I'm web3 diver that loves testnets and ambassador programs. With 2 years of experience I'm glad to use my skills to help crypto projects :)
+
 ## Ketherium Validate Networks:
    
 Test-nets:  
@@ -16,5 +18,4 @@ Test-nets:
  * ***[GitHub](https://github.com/Fr33sson "@Fr33sson")***  
  * ***[Twitter](https://twitter.com/AlexFreesson "@AlexFreesson")***
 
-postimg.cc (https://i.postimg.cc/Xqjc9skX/Freesson-Logo-Round.png)
-Freesson Logo Round — Postimages
+
