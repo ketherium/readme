@@ -6,7 +6,7 @@ Test-nets:
 1. ***[Minima](https://minima.global/ "Minima")***  
 2. ***[Nym Network](https://testnet-milhon-explorer.nymtech.net/nym/mixnodes/3xKqpe2UqBiKrAhXnNW9UTgzGNKvYoogJbma5JMGp46B "Freesson mix-node")***  
 3. ***[Meson Network](https://meson.network/ "Meson")***  
-4. ***[Massa Labs]((https://massa.net/) "Massa")***  
+4. ***[Massa Labs](https://massa.net/ "Massa" )***  
 
   
 #   
