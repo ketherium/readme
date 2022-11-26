@@ -12,7 +12,7 @@ Test-nets:
 #   
     
  Contacts:  
- * ***[Telegram](https://t.me/Freesson "@Freesson")***  
+ * ***[Telegram](https://t.me/saletiable) "@saletiable")***  
  * ***[GitHub](https://github.com/Fr33sson "@Fr33sson")***  
  * ***[Twitter](https://twitter.com/AlexFreesson "@AlexFreesson")***
 
